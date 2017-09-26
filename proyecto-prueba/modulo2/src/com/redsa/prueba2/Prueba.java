@@ -5,4 +5,6 @@ package com.redsa.prueba2;
  * Fecha: 26/09/17
  */
 public class Prueba {
+
+    private String a;
 }
